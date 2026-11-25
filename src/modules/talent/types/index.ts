@@ -1,0 +1,8 @@
+export type { JobVacancy, VacancyStatus } from '@/mock/data/jobVacancies'
+export type { Applicant, ApplicantStage } from '@/mock/data/applicants'
+export type { Goal, GoalStatus } from '@/mock/data/goals'
+export type { Kpi } from '@/mock/data/kpis'
+export type { PerformanceEvaluation, EvaluationStatus } from '@/mock/data/performanceEvaluations'
+export type { Skill, EmployeeSkill, SkillLevel } from '@/mock/data/skills'
+export type { TrainingProgram } from '@/mock/data/trainingPrograms'
+export type { TrainingEnrollment, EnrollmentStatus } from '@/mock/data/trainingEnrollments'
